@@ -1,0 +1,30 @@
+{
+  "name": "app_todo",
+  "version": "1.0.0",
+  "description": "Application todo node.js mongodb angular 6",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.6",
+    "mongoose": "^5.3.2",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.4",
+    "serve-favicon": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "Application",
+    "todo",
+    "node.js",
+    "mongodb",
+    "angular",
+    "6"
+  ],
+  "author": "Elyes Maamouri",
+  "license": "ISC"
+}
